@@ -64,3 +64,60 @@
 - **`TOTAL`**: Adds all the visible rows in the view.  
 - **`WINDOW_PERCENTILE`**: Finds the percentile for a range of rows.  
 - **`FIRST` / `LAST`**: Shows the first or last position of a row in a view.
+
+# Tableau Chart Types and Their Uses  
+
+This document provides a quick reference to common chart types in Tableau and their use cases.  
+
+## Chart Types  
+
+### 1. **Bar Chart**  
+- **Use:** Compare categorical data side by side. Best for showing rankings, trends, or comparisons.  
+
+### 2. **Line Chart**  
+- **Use:** Analyze trends over time (e.g., sales, profits, or performance over months or years).  
+
+### 3. **Area Chart**  
+- **Use:** Similar to a line chart but emphasizes the magnitude of change over time by filling the area under the line.  
+
+### 4. **Pie Chart**  
+- **Use:** Show proportions or percentages of a whole. Best for up to 5 categories.  
+
+### 5. **Scatter Plot**  
+- **Use:** Analyze relationships between two numerical variables (e.g., sales vs. profit).  
+
+### 6. **Histogram**  
+- **Use:** Display the distribution of a single continuous variable (e.g., frequency of sales within ranges).  
+
+### 7. **Box Plot (or Box-and-Whisker Plot)**  
+- **Use:** Show the distribution and variability of data, highlighting medians, quartiles, and outliers.  
+
+### 8. **Tree Map**  
+- **Use:** Represent hierarchical data or proportions using nested rectangles.  
+
+### 9. **Heat Map**  
+- **Use:** Visualize data density or intensity across a matrix using color gradients.  
+
+### 10. **Gantt Chart**  
+- **Use:** Track schedules, timelines, or project tasks over time.  
+
+### 11. **Bubble Chart**  
+- **Use:** Visualize relationships with three variables using bubble size as an additional measure.  
+
+### 12. **Dual-Axis Chart**  
+- **Use:** Compare two measures with different axes on the same chart (e.g., sales and profit trends).  
+
+### 13. **Map (Geographical Chart)**  
+- **Use:** Display data geographically, such as sales by region or customer distribution.  
+
+### 14. **Bullet Chart**  
+- **Use:** Compare a measure against a target or benchmark.  
+
+### 15. **Waterfall Chart**  
+- **Use:** Show cumulative impacts of sequential positive and negative changes (e.g., profit contribution).  
+
+### 16. **Funnel Chart**  
+- **Use:** Represent stages in a process, often used for sales or conversion funnels.  
+
+---
+
