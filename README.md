@@ -63,4 +63,13 @@
 #### **7. Dashboard Functions**
 - **`TOTAL`**: Adds all the visible rows in the view.  
 - **`WINDOW_PERCENTILE`**: Finds the percentile for a range of rows.  
-- **`FIRST` / `LAST`**: Shows the first or last position of a row in a view.  
+- **`FIRST` / `LAST`**: Shows the first or last position of a row in a view.
+
+1. Bar Chart
+Use: Compare categorical data side by side. Best for showing rankings, trends, or comparisons.
+
+2. Line Chart
+Use: Analyze trends over time (e.g., sales, profits, or performance over months or years).
+
+3. Area Chart
+Use: Similar to a line chart but emphasizes the magnitude of change over time by filling the area under the line.
